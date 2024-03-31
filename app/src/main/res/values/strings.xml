@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Whatsapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_chat_icon">icon</string>
+    <string name="info_chat_name">Nama</string>
+    <string name="info_chat_desc">Contoh chat</string>
+
+    <string-array name="Chat_name">
+        <item>Miko</item>
+        <item>Name 2</item>
+        <item>Name 3</item>
+        <item>Name 4</item>
+        <item>Name 5</item>
+        <item>Name 6</item>
+        <item>Name 7</item>
+        <item>Name 8</item>
+        <item>Name 9</item>
+        <item>Name 10</item>
+        <item>Name 11</item>
+        <item>Name 12</item>
+        <item>Name 13</item>
+        <!-- Add more items as needed -->
+    </string-array>
+
+    <array name="Chat_icon">
+        <item>@drawable/foto_diri</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <!-- Add more items as needed -->
+    </array>
+
+    <string-array name="Chat_desc">
+        <item>Hi Teman Del </item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+        <item>Description 4</item>
+        <item>Description 5</item>
+        <item>Description 6</item>
+        <item>Description 7</item>
+        <item>Description 8</item>
+        <item>Description 9</item>
+        <item>Description 10</item>
+        <item>Description 11</item>
+        <item>Description 12</item>
+        <item>Description 13</item>
+        <!-- Add more items as needed -->
+    </string-array>
+
+    <string-array name="Call_name">
+        <item>Name 1</item>
+        <item>Name 2</item>
+        <item>Name 3</item>
+        <item>Name 4</item>
+        <item>Name 5</item>
+        <item>Name 6</item>
+        <item>Name 7</item>
+        <item>Name 8</item>
+        <item>Name 9</item>
+        <item>Name 10</item>
+        <item>Name 11</item>
+        <item>Name 12</item>
+        <item>Name 13</item>
+        <!-- Add more items as needed -->
+    </string-array>
+
+    <array name="Call_icon">
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <!-- Add more items as needed -->
+    </array>
+
+    <string-array name="Call_desc">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+        <item>Description 4</item>
+        <item>Description 5</item>
+        <item>Description 6</item>
+        <item>Description 7</item>
+        <item>Description 8</item>
+        <item>Description 9</item>
+        <item>Description 10</item>
+        <item>Description 11</item>
+        <item>Description 12</item>
+        <item>Description 13</item>
+        <!-- Add more items as needed -->
+    </string-array>
+
+</resources>

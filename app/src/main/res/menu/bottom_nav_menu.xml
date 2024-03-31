@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_chat_24"
+        android:title="Chat" />
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/baseline_update_24"
+        android:title="Pembaruan" />
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/baseline_connect_without_contact_24"
+        android:title="Komunitas" />
+    <item
+        android:id="@+id/navigation_call"
+        android:icon="@drawable/phone"
+        android:title="Panggilan" />
+</menu>

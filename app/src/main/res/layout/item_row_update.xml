@@ -1,0 +1,17 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="15dp"
+    android:layout_margin="10dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ivItemChat"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:contentDescription="@string/info_chat_icon"
+        app:srcCompat="@drawable/ic_person"
+        tools:ignore="ImageContrastCheck" />
+
+</androidx.cardview.widget.CardView>
